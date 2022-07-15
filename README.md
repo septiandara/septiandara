@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mega!</h1>
 <h3 align="center">Junior Data Analyst with a passion on blockchain & web3</h3>
 
-- 🔭 I’m currently working on **my data analytics portfolio**
-
-- 🌱 I’m currently learning **advanced SQL queries for Dune Analytics, Power BI**
+- 🔭 I’m currently working on **on-chain analytics**
 
 - 💬 Ask me about **anything crypto related!**
 
