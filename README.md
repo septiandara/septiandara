@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mega!</h1>
-<h3 align="center">Junior Data Analyst with a passion on blockchain & web3</h3>
+<h3 align="center">Data Analyst with a passion on blockchain & web3</h3>
 
 - 🔭 I’m currently working on **on-chain analytics**
 
