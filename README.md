@@ -11,8 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/degenwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourcryptobabe" height="30" width="40" /></a>
-<a href="https://instagram.com/degenwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourcryptobabe" height="30" width="40" /></a>
+<a href="https://twitter.com/degenwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="degenwitch" height="30" width="40" /></a>
+<a href="https://instagram.com/degenwitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="degenwitch" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Web3 Analytics Dashboards:</h3>
+<p align="left">
+<a href="https://query.nansen.ai/public/dashboards/Hk93n66vsO0uvycfui8ypF2xcpNhpraxfwX5AWZJ" target="blank"><img align="center" src="https://assets-global.website-files.com/60118ca1c2eab61d24bcf151/62f2887e77e3f7ac05a755b6_Nansen_Logomark.png" height="40" width="40" /></a>
+<a href="https://flipsidecrypto.xyz/degenwitch" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/32752226?s=280&v=4" height="40" width="40" /></a>
+<a href="https://dune.com/septiandara/Uniswap-in-L2-Chain" target="blank"><img align="center" src="https://media.fintastico.com/images/logos/dune_logo_2022.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
